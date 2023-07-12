@@ -13,4 +13,9 @@ amount_paid.shift
 # It will remove and call the first float
 
 true_or_false.unshift(false)
-# It will add >2 in the 0 position
+# It will add false in the 0 position
+
+puts friends [0] # This will print Bud since it is in the first position of friends
+# Arrays always start with the first position as 0
+
+
