@@ -18,4 +18,5 @@ true_or_false.unshift(false)
 puts friends [0] # This will print Bud since it is in the first position of friends
 # Arrays always start with the first position as 0
 
-
+# You can check is and array has anything in it at all with .empty?
+puts friends.empty?
